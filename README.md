@@ -1,5 +1,7 @@
 # Programming Principles II - Assignment 1
 
+# Deadline: **October 25 (Wednesday), 11 PM**
+
 ## Object Oriented Programming
 
 You goal is to implement a java program to store and manage information about your favorite movies/tv shows.
@@ -72,7 +74,8 @@ Here `System.out.println(show1)` should call `toString()` method of `TVShow` and
 
 ## Grading criteria
 
-**Your code (`Main.java`) should run. In case of errors when running grade will be zero.**
+**NO LATE SUBMISSIONS WILL BE ACCEPTED**. Do not wait for the deadline, finish earlier.
+**Your code (`Main.java`) should run. In case of errors when running, grade will also be zeroed.**
 
 Possible points are shown inside `[]`.
 
