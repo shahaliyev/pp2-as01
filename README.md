@@ -74,6 +74,8 @@ Here `System.out.println(show1)` should call `toString()` method of `TVShow` and
 
 **Your code (`Main.java`) should run. In case of errors when running grade will be zero.**
 
+Possible points are shown inside `[]`.
+
 ### `MotionPicture.java` [20]
 
 Members are defined correctly, logical data types and modifiers are chosen, `toString()` method is overridden.
@@ -122,7 +124,7 @@ which will get a `MotionPicture` array as its input and sum the running time of 
 
 ### Other [5]
 
-Your code should be **tidy**. Do not put unnecessary gaps or unnecessary comments. If you think that it is meaningful to do something, do it. Make your code understandable and easy to read. [2]
+Your code should be **tidy**. Do not put unnecessary gaps or unnecessary comments. If you think that it is meaningful to do something, do it. Make your code is understandable and easy to read. `[2]`
 
 Make use of **git/github** properly. Make consistent and reasonable commits. Frequently used `git` commands were as follows:
 
@@ -133,11 +135,11 @@ git commit -m "your message"
 git push
 ```
 
-[2]
+`[2]`
 
-Have a `README.md` file explaining your code. **Markdown language** is easy to learn is powerful. See the [MarkDown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) and test your code [here](https://dillinger.io/) 
+Have a `README.md` file explaining your code. **Markdown language** is easy to learn is powerful. See the [MarkDown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) and test your code [here](https://dillinger.io/).
 
-[1]
+`[1]`
 
 *On blackboard, put the link to your repository when submitting the assignment.*
 
